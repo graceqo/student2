@@ -3,7 +3,7 @@ layout: default
 title: Student Blog
 ---
 
-## Testing
+## Testing 1 2 3
 ## Build you Home Page here 
 This is about your journey. Start now!!!
 
